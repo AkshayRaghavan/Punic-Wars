@@ -1,0 +1,9 @@
+Download the remote repository in your local system.
+Open Terminal in the downloaded direcory.
+Execute the following commands:
+  sudo apt-get install libqt5widgets5
+  sudo apt-get install qtmultimedia5-dev  
+  qmake PunicWars.pro
+  make
+   ./PunicWars
+Enjoy.. ;)
